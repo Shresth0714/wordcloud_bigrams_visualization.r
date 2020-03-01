@@ -1,5 +1,8 @@
 # wordcloud_bigrams_visualization.r
 
+Report on
+https://rpubs.com/Shresth/wordcloud_bigrams_visualization
+
 Collected unstructured data for a company's data strategy needs by surveying two employees - aim to understand the data usage and gaps in the company data strategy.
 
 The visualization in r was used to understand the initial stages of the project - this is just one part of the analysis - used different visualizations to understand sentiments of speaker and networks between them
